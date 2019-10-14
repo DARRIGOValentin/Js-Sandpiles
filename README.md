@@ -8,6 +8,10 @@ The app contains a few tiling presets such as Square tiling, Hexagonal tiling or
 
 Feel free to contact us for any  additional information.
 
+D'ARRIGO Valentin
+FERSULA Jérémy
+ZHANG Lin
+
 <h2>MIT LICENSE</h2>
 <p>Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
